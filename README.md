@@ -1,7 +1,7 @@
 ## PRÀCTICA
 #### Joan Manel Ramírez Jávega
 
-Aquest paquet conté la Pràctica 2 per l'assignatura de Visualització de dades del Màster de ciència de dades (UOC).
+Aquest paquet conté la Pràctica 2 per l'assignatura de Visualització de dades del Màster de Ciència de dades (UOC).
 
 Aquest paquet està conformat principalment per:
 
